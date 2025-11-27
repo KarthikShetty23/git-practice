@@ -44,3 +44,19 @@ git commit -m "Added new feature"
 
 # 3. Upload to Cloud
 git push origin feature-name
+```
+## 🗺️ The Roadmap
+
+### 🟢 Phase 1: The Foundation (Current)
+- [x] **Week 1:** Setup & Configuration (WSL2 + Git)
+- [ ] **Week 2:** 🐧 **Linux Deep Dive** (Permissions & File Systems)
+- [ ] **Week 3:** 🌐 **Computer Networking** (The language of the cloud)
+- [ ] **Week 4:** 🤖 **Basic Automation** (Bash Scripting)
+
+### 🟡 Phase 2: The Logic (Upcoming - Jan 2026)
+- [ ] 🐍 **Python for DevOps**
+- [ ] 🧠 **SRE-Focused DSA** (Logs, Parsing, Automation logic)
+
+### 🔵 Phase 3: The Cloud (Upcoming)
+- [ ] ☁️ **AWS Essentials**
+- [ ] 🐳 **Docker & Containers**

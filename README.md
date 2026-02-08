@@ -71,8 +71,6 @@ git push origin feature-name
 - [ ] 🐳 **Docker & Containers**
 
 ## So far:
-* Still learning Linux ,but the knowledge of commands and understanding of linux is better.
-* Started Python and have created a repository to manage and documents all the codes written.
-* Computer Networks still in basics.
-* SRE focussed DSA is the next boarding point.
-* cloud will start on March.
+* Linux: Strengthening command line proficiency and kernel understanding(permissions , file systems).
+* python: Initialized the `python-practice` repository to document automation scripts and logic.[repository][https://github.com/KarthikShetty23/python-practice]
+* Networking: Building foundational knowledge in OSI model and TCp/IP.

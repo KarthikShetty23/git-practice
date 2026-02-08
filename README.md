@@ -1,6 +1,6 @@
 # 🐧 Linux & Git Learning Journey
 
-> **Status:** 🟢 Active Learning (Phase 1)
+> **Status:** 🟢 Active Learning (Phase 2)
 > 
 > **Goal:** Building the foundation for Site Reliability Engineering (SRE).
 
@@ -33,9 +33,11 @@ This repository serves as my personal laboratory and documentation hub. Here, I 
 | **File Mgmt**| `cp <file> <new>` | Copy a file to the new location/name. |
 | **File Mgmt**| `rm <file>` | Removes(deletes) a specific file |
 | **File Mgmt**| `cat <file>`| Read or Display the contents of the file |
+| **File Mgmt**| 'less <file>` | Read the content of file in document form and read it page by page using arrow keys |
 | **System**| `whoami` | Shows which user you are currently logged at |
 | **System**| `which` <cmd> |Shows the path where program is installed |
 | **System**| `clear` | Clears the terminal screen |
+| **System**| `history` | Shows the list of commands that we have written , linux almost remembers past 1000 commands |
 ---
 
 ## 🐙 Git Workflow
@@ -56,14 +58,21 @@ git push origin feature-name
 
 ### 🟢 Phase 1: The Foundation (Current)
 - [x] **Week 1:** Setup & Configuration (WSL2 + Git)
-- [ ] **Week 2:** 🐧 **Linux Deep Dive** (Permissions & File Systems)
-- [ ] **Week 3:** 🌐 **Computer Networking** (The language of the cloud)
-- [ ] **Week 4:** 🤖 **Basic Automation** (Bash Scripting)
+- [X] **Week 2:** 🐧 **Linux Deep Dive** (Permissions & File Systems)
+- [X] **Week 3:** 🌐 **Computer Networking** (The language of the cloud)
+- [X] **Week 4:** 🤖 **Basic Automation** (Bash Scripting)
 
 ### 🟡 Phase 2: The Logic (Upcoming - Jan 2026)
-- [ ] 🐍 **Python for DevOps**
+- [X] 🐍 **Python for DevOps**
 - [ ] 🧠 **SRE-Focused DSA** (Logs, Parsing, Automation logic)
 
 ### 🔵 Phase 3: The Cloud (Upcoming)
 - [ ] ☁️ **AWS Essentials**
 - [ ] 🐳 **Docker & Containers**
+
+## So far:
+* Still learning Linux ,but the knowledge of commands and understanding of linux is better.
+* Started Python and have created a repository to manage and documents all the codes written.
+* Computer Networks still in basics.
+* SRE focussed DSA is the next boarding point.
+* cloud will start on March.

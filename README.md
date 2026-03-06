@@ -73,4 +73,4 @@ git push origin feature-name
 ## So far:
 * Linux: Strengthening command line proficiency and kernel understanding(permissions , file systems).
 * python: Initialized the `python-practice` repository to document automation scripts and logic.[repository][https://github.com/KarthikShetty23/python-practice]
-* Networking: Building foundational knowledge in OSI model and TCp/IP.
+* Networking: Building foundational knowledge in OSI model and TCP/IP.
